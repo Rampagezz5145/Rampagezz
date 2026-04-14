@@ -1,0 +1,6 @@
+{
+  "name": "Remix: 大模型评价指标重要性评价系统",
+  "description": "基于三角模糊数层次分析法（Fuzzy AHP）的大模型评价指标重要性评估专家问卷系统，涵盖静态记忆、动态记忆、工作记忆加工及系统级开销等维度。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
